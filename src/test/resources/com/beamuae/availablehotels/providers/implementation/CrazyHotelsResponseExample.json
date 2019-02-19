@@ -1,0 +1,9 @@
+[
+  {
+    "hotelName": "HotelName",
+    "rate": "*****",
+    "price": 100,
+    "discount": 0,
+    "amenities": ["Room Service", "Minibar", "Fitness Center", "House Keeping", "Spa", "Sauna"]
+  }
+]

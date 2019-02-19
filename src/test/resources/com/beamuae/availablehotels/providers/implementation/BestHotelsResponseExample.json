@@ -1,0 +1,8 @@
+[
+  {
+    "hotel": "HotelName",
+    "hotelRate": 4,
+    "hotelFare": 65,
+    "roomAmenities": ["Room Service", "Minibar", "Fitness Center", "House Keeping", "Spa", "Sauna"]
+  }
+]
